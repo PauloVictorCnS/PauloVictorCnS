@@ -10,3 +10,4 @@
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 
 [![PauloVictorCnS stats](https://github-readme-stats.vercel.app/api?username=PauloVictorCnS)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloVictorCnS)](https://github.com/anuraghazra/github-readme-stats)
