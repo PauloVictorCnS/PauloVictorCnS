@@ -12,4 +12,4 @@
 [![PauloVictorCnS stats](https://github-readme-stats.vercel.app/api?username=PauloVictorCnS)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloVictorCnS)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloVictorCnS)](https://github.com/anuraghazra/github-readme-stats)
+[![PauloVictorCnS](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloVictorCnS)](https://github.com/anuraghazra/github-readme-stats)
